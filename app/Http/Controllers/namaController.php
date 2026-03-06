@@ -12,7 +12,7 @@ class namaController extends Controller
             'nama' => 'Muhammad Rafi Ramadhan Kartika',
             'nim' => '20230140138',
             'program_studi' => 'Pemrograman Web Framework',
-            'hobi' => 'Desain / Programming'
+            'hobi' => 'ngoding, main game',
         ];
 
         return view('about', $data);
